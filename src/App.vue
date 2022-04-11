@@ -12,7 +12,7 @@ import FilmDetail from './components/FilmDetail.vue';
 
   <main>
     <FilmDetail />
-    <FilmItem />
+    <!-- <FilmItem /> -->
   </main>
 </template>
 
